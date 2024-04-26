@@ -30,7 +30,7 @@ let timestamp = 4102329600000;//2099-12-31
 let WarpKeys = [//本地WARP密钥池
 	//'wMJhncxGFnnEmtEges49Z5gY7mVa0eY3usNR93ohLX8=',
 ];
-let WarpKeyURL = 'https://raw.githubusercontent.com/cmliu/WARP2sub/main/WarpKey';//在线WARP密钥池URL
+let WarpKeyURL = 'https://github.com/moxin9795/WARP2sub/blob/main/WarpKey';//在线WARP密钥池URL
 const regex = /^(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|\[.*\]):?(\d+)?#?(.*)?$/;
 let EndPS = '';//节点名备注内容
 
