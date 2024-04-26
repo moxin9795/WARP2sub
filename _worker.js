@@ -16,7 +16,7 @@ let addressesapi = [
 
 let DELAY = 180;//延迟上限
 let addressescsv = [
-	'https://raw.githubusercontent.com/cmliu/WARP2sub/main/result.csv', //warp-yxip测速结果文件。
+	'https://github.com/moxin9795/WARP2sub/blob/main/result.csv', //warp-yxip测速结果文件。
 ];
 
 let subconverter = "apiurl.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
